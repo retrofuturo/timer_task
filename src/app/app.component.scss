@@ -1,0 +1,20 @@
+
+.container {
+  padding-top: 50px;
+
+  .button-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 48px;
+  }
+
+  .timer-label {
+    text-align: center;
+    font-size: 63px;
+    color: #5C616F;
+  }
+
+  button {
+    margin: 0 17px;
+  }
+}
